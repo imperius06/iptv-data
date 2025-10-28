@@ -1,0 +1,4 @@
+[
+  {"nombre": "Canal 1", "imagen": "https://via.placeholder.com/120x90?text=Canal+1", "url": "https://tu_enlace_1.m3u8"},
+  {"nombre": "Canal 2", "imagen": "https://via.placeholder.com/120x90?text=Canal+2", "url": "https://tu_enlace_2.m3u8"}
+]
