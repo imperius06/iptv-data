@@ -1,6 +1,7 @@
 [
-  {"nombre": "WIN SPORT", "imagen": "https://via.placeholder.com/120x90?text=Canal+1", "url": "http://190.61.41.182:8000/play/a2lo/index.m3u8"},
+  {"nombre": "WIN SPORT", "imagen": "https://via.placeholder.com/120x90?text=Canal+1", "url": "http://104.238.222.251:8989/280080_.m3u8"},
   {"nombre": "Canal 2", "imagen": "https://via.placeholder.com/120x90?text=Canal+2", "url": "https://tu_enlace_2.m3u8"}
 ]
+
 
 
