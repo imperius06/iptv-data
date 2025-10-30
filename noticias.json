@@ -30,13 +30,14 @@
     "url": "https://hvtraficonew.ddns.net/cncmedellin720/canalcncmedellin.stream_720p/index.m3u8"
   },
    {
-    "nombre": "CTV BARRANQUILLA",
-    "imagen": "https://cdn.m3u.cl/logo/126_CTV.png",
-    "url": "https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8"
+    "nombre": "CANAL INSTITUCIONAL",
+    "imagen": "https://cdn.m3u.cl/logo/120_Canal_Institucional.png",
+    "url": "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8"
   }
  
 
 ]
+
 
 
 
