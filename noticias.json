@@ -13,9 +13,15 @@
     "nombre": "RCN HD",
     "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/fb/CanalRCNHD2021.png",
     "url": "http://38.183.182.166:8000/play/a10i/index.m3u8"
+  },
+  {
+    "nombre": "SEÑAL COL",
+    "imagen": "https://cdn.m3u.cl/logo/128_Senal_Colombia.png",
+    "url": "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8"
   }
 
 ]
+
 
 
 
