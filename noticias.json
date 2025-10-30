@@ -1,8 +1,9 @@
 [
   {"nombre": "Canal 1", "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/58/Canal12023.png", "url": "https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8"},
-  {"nombre": "Caracol", "imagen": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Noticias_Caracol_2017_entero.png", "url": "http://170.244.209.135:8000/play/a0cz/index.m3u8"}
-  {"nombre": "RCN HD", "imagen": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Noticias_Caracol_2017_entero.png", "url": "http://38.183.182.166:8000/play/a10i/index.m3u8"}
+  {"nombre": "Caracol", "imagen": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Noticias_Caracol_2017_entero.png", "url": "http://170.244.209.135:8000/play/a0cz/index.m3u8"},
+  {"nombre": "RCN HD", "imagen": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Noticias_Caracol_2017_entero.png", "url": "http://38.183.182.166:8000/play/a10i/index.m3u8"},
 ]
+
 
 
 
