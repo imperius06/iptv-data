@@ -6,7 +6,7 @@
   },
   {
     "nombre": "Caracol",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Noticias_Caracol_2017_entero.png",
+    "imagen": "https://cdn.m3u.cl/logo/123_Caracol.png",
     "url": "http://170.244.209.135:8000/play/a0cz/index.m3u8"
   },
   {
@@ -21,6 +21,7 @@
   }
 
 ]
+
 
 
 
