@@ -24,9 +24,15 @@
     "imagen": "https://cdn.m3u.cl/logo/128_Senal_Colombia.png",
     "url": "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8"
   }
+  {
+    "nombre": "CNC MEDELLIN",
+    "imagen": "https://cdn.m3u.cl/logo/116_Canal_CNC_Medellin.png",
+    "url": "https://hvtraficonew.ddns.net/cncmedellin720/canalcncmedellin.stream_720p/index.m3u8"
+  },
  
 
 ]
+
 
 
 
