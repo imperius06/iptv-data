@@ -1,4 +1,5 @@
 [
-  {"nombre": "Canal 1", "imagen": "https://via.placeholder.com/120x90?text=Canal+1", "url": "https://tu_enlace_1.m3u8"},
+  {"nombre": "NICKELONEON", "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/71/Nickelodeon_2023_logo.svg", "url": "http://181.78.4.250:8098/play/a03t/index.m3u8"},
   {"nombre": "Canal 2", "imagen": "https://via.placeholder.com/120x90?text=Canal+2", "url": "https://tu_enlace_2.m3u8"}
 ]
+
