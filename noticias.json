@@ -10,9 +10,9 @@
     "url": "http://170.244.209.135:8000/play/a0cz/index.m3u8"
   },
   {
-    "nombre": "RCN HD",
-    "imagen": "https://i.imgur.com/5PhTaHp.png",
-    "url": "http://38.183.182.166:8000/play/a10i/index.m3u8"
+    "nombre": "TELE PASTO",
+    "imagen": "https://telepasto.tv/wp-content/uploads/2019/11/TELEPASTO-1-150x150.png",
+    "url": "https://hvtraficonew.ddns.net/telepasto/telepasto.stream/index.m3u8"
   },
    {
     "nombre": "CALI TV",
@@ -42,6 +42,7 @@
  
 
 ]
+
 
 
 
