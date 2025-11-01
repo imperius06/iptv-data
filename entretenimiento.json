@@ -1,7 +1,9 @@
 [
   {"nombre": "SONY COMEDIA", "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", "url": "https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8"},
-  {"nombre": "SONY NOVELAS", "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", "url": "https://spt-sonyonenovelas-1-mx.xiaomi.wurl.tv/playlist.m3u8"}
+  {"nombre": "SONY NOVELAS", "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", "url": "https://spt-sonyonenovelas-1-mx.xiaomi.wurl.tv/playlist.m3u8"},
+  {"nombre": "SONY SHARKTANK", "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", "url": "https://spt-sonyonesharktank-1-mx.xiaomi.wurl.tv/playlist.m3u8"}
 ]
+
 
 
 
