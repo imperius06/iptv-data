@@ -1,15 +1,6 @@
-
 [
-  
-  {"nombre": "SONY NOVELAS", "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", "url": "https://spt-sonyonenovelas-1-mx.xiaomi.wurl.tv/playlist.m3u8"},
-  {"nombre": "SONY SHARKTANK", "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", "url": "https://spt-sonyonesharktank-1-mx.xiaomi.wurl.tv/playlist.m3u8"},
-  {"nombre": "COMEDY CENTRAL ES", "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png", "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280717-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=970b3112-4df5-46fc-83e4-cefce01e5024"},
-  {"nombre": "Anime Vision", "imagen": "https://cdn.pixabay.com/photo/2024/05/09/08/07/ai-generated-8750163_1280.jpg", "url": "https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8"},
-  {"nombre": "Anime Vision", "imagen": "https://cdn.pixabay.com/photo/2024/05/09/08/07/ai-generated-8750163_1280.jpg", "url": "https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8"},
-  {"nombre": "SONY COMEDIA", "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", "url": "https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8"},
-  {"nombre": "Yu-Gi-Oh", "imagen": "https://upload.wikimedia.org/wikipedia/en/3/3e/Yu-Gi-Oh%21_vol._1.png", "url": "https://amg01796-amg01796c18-rakuten-es-7491.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugiohees-rakutenes/playlist.m3u8"}
-
-
+  {"nombre": "NICKELONEON", "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/71/Nickelodeon_2023_logo.svg", "url": "http://181.78.4.250:8098/play/a03t/index.m3u8"},
+  {"nombre": "DISNEY JUNIOR", "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png", "url": "http://38.183.182.166:8000/play/a0j9/index.m3u8"}
 ]
 
 
